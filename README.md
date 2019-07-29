@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project includes a basic template that I have found useful for developing shiny dashboards.  It use the basic layout shown below:
+This project includes a basic template that I have found useful for developing shiny dashboards.  It uses the basic layout shown below:
 
 ![Screenshot](screenshot.png)
 
